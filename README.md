@@ -75,8 +75,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddiq0611&theme=dark&hide_border=true")](https://git.io/streak-stats)
 <img src="https://user-images.githubusercontent.com/72120258/137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5.gif" height="200" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddiq0611&theme=dark&hide_border=false" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddiq0611&theme=dark&hide_border=false" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddiq0611&theme=dark&hide_border=false" height="160em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddiq0611&theme=dark&hide_border=false" height="160em" />
 
 <div>
   <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
