@@ -1,5 +1,4 @@
 <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="40" width="40">, I'm ░▒▓█ <span style="color: #007bff;">🆂🅸🅳🅳🅸🆀🆄🅸, 🆁🅸🆈🅰🆉</span> █▓▒░ </h1>
-
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Learning+to+craft...................;......full-stack+applications......;..............from+the+ground+up.&color=E4405F"/>
 </div>
@@ -49,13 +48,14 @@
 </div>
 <br/>
 
-<a  href="https://github.com/siddiq0611/github-readme-stats">
-<img align="center" height="180" src= "https://github-readme-stats.vercel.app/api?username=siddiq0611&show_icons=true&theme=react">
+<a href="https://github.com/siddiq0611/github-readme-stats">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=siddiq0611&show_icons=true&theme=dark">
 </a>
   
 <a href="https://github.com/siddiq0611/siddiq0611">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq0611&show_icons=true&theme=react&langs_count=5" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq0611&show_icons=true&theme=dark&langs_count=5" />
 </a>
+
 
 <br/>
 <br/>
@@ -75,7 +75,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddiq0611&theme=dark&hide_border=true")](https://git.io/streak-stats)
 <img src="https://user-images.githubusercontent.com/72120258/137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5.gif" height="200" />
-
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddiq0611&theme=dark&hide_border=false" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddiq0611&theme=dark&hide_border=false" height="180em" />
 
 <div>
   <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
