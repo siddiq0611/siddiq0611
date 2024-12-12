@@ -114,5 +114,11 @@
 <div style="margin-left: 40px;">
   <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/winnie_the_pooh.gif" style="height: 200px;"/>
 </div>
+<br/>
+<div>
+  <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
+</div>
+<br/>
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddiq0611&theme=xcode)](https://github.com/siddiq0611)
 
