@@ -49,7 +49,7 @@
 <br/>
 
 <a href="https://github.com/siddiq0611/github-readme-stats">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=siddiq0611&show_icons=true&theme=dark">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=siddiq0611&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark">
 </a>
   
 <a href="https://github.com/siddiq0611/siddiq0611">
