@@ -48,17 +48,18 @@
 </div>
 <br/>
 
+<p align="center">
 <a href="https://github.com/siddiq0611/github-readme-stats">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=siddiq0611&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark">
 </a>
   
 <a href="https://github.com/siddiq0611/siddiq0611">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq0611&show_icons=true&theme=dark&langs_count=5" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq0611&show_icons=true&count_private=true&theme=dark&langs_count=5" />
 </a>
 
+  <img align="center" height="180" src="https://github.com/siddiq0611/git_repo/blob/main/git2.gif" />
+</p>
 
-<br/>
-<br/>
 <div>
   <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
 </div>
@@ -73,10 +74,19 @@
 </div>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddiq0611&theme=dark&hide_border=true")](https://git.io/streak-stats)
+<p align="center"> 
+  
+<img src="https://streak-stats.demolab.com?user=siddiq0611&theme=dark" alt="GitHub Streak" />
 <img src="https://user-images.githubusercontent.com/72120258/137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5.gif" height="200" />
+</p>
+<div>
+  <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
+</div>
+<br/>
+<p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddiq0611&theme=dark&hide_border=false" height="160em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddiq0611&theme=dark&hide_border=false" height="160em" />
+</p>
 
 <div>
   <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
@@ -104,7 +114,9 @@
 <div>
   <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
 </div>
-<br/>
+
+
+<p aligh="center">
 <div style="border-radius: 20px; overflow: hidden;">
   <a href="https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He?si=0c8ae749654c46f5" target="_blank">
     <img align="left" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/now_listening.gif" style="border-radius: 20px; height: 200px;"/>
@@ -114,7 +126,8 @@
 <div style="margin-left: 40px;">
   <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/winnie_the_pooh.gif" style="height: 200px;"/>
 </div>
-<br/>
+</p>
+
 <div>
   <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
 </div>
