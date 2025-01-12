@@ -76,7 +76,7 @@
 
 <p align="center"> 
   
-<img src="https://streak-stats.demolab.com?user=siddiq0611&theme=dark&ring=f7e901&fire=f7e901&currStreakLabel=f7e901" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=siddiq0611&theme=dark&ring=f7e901&fire=f7e901&currStreakLabel=f7e901" alt="siddiq's_streak" />
 <img src="https://user-images.githubusercontent.com/72120258/137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5.gif" height="200" />
 </p>
 <div>
@@ -135,3 +135,12 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddiq0611&theme=xcode)](https://github.com/siddiq0611)
 
+<!--
+<a href="https://github.com/siddiq0611/github-readme-stats">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=siddiq0611&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark&bg_color=0,FF9933,FFFFFF,138808&text_color=000080&icon_color=000080&title_color=000080&locale=en">
+</a>
+
+<a href="https://github.com/siddiq0611/siddiq0611">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq0611&show_icons=true&count_private=true&theme=dark&langs_count=5&bg_color=0,FF9933,FFFFFF,138808&text_color=000080&icon_color=000080&title_color=000080&locale=en" />
+</a>
+-->
