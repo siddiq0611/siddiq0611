@@ -76,7 +76,7 @@
 
 <p align="center"> 
   
-<img src="https://streak-stats.demolab.com?user=siddiq0611&theme=dark" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=siddiq0611&theme=dark&ring=f7e901&fire=f7e901&currStreakLabel=f7e901" alt="GitHub Streak" />
 <img src="https://user-images.githubusercontent.com/72120258/137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5.gif" height="200" />
 </p>
 <div>
