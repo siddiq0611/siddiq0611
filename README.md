@@ -50,11 +50,11 @@
 
 <p align="center">
 <a href="https://github.com/siddiq0611/github-readme-stats">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=siddiq0611&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark&bg_color=0,FF9933,FFFFFF,138808&text_color=000080&icon_color=000080&title_color=000080&locale=en">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=siddiq0611&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark">
 </a>
-
+  
 <a href="https://github.com/siddiq0611/siddiq0611">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq0611&show_icons=true&count_private=true&theme=dark&langs_count=5&bg_color=0,FF9933,FFFFFF,138808&text_color=000080&icon_color=000080&title_color=000080&locale=en" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq0611&show_icons=true&count_private=true&theme=dark&langs_count=5" />
 </a>
 
   <img align="center" height="180" src="https://github.com/siddiq0611/git_repo/blob/main/git2.gif" />
@@ -134,15 +134,3 @@
 <br/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddiq0611&theme=xcode)](https://github.com/siddiq0611)
-
-<!--
-
-<a href="https://github.com/siddiq0611/github-readme-stats">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=siddiq0611&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark">
-</a>
-  
-<a href="https://github.com/siddiq0611/siddiq0611">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq0611&show_icons=true&count_private=true&theme=dark&langs_count=5" />
-</a>
-
--->
