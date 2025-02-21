@@ -82,6 +82,17 @@
 <div>
   <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
 </div>
+</br>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/siddiq0611?theme=dark&ext=contest" alt="Siddiq's Leetcode Stats" style="margin-right: 10px; height: 200px;" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=siddiq0611&show_icons=true&force_username=true&theme=dark" alt="Siddiq's Codeforces Stats" style="margin-right: 10px; height: 200px;" />
+  <a href="https://www.geeksforgeeks.org/user/siddiq0611/">
+    <img src="https://gfgstatscard.vercel.app/siddiq0611" alt="GeeksForGeeks stats" style="height: 200px;" />
+  </a>
+</p>
+<div>
+  <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
+</div>
 <br/>
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddiq0611&theme=dark&hide_border=false" height="160em" />
